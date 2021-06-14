@@ -18,7 +18,7 @@
         <%@include file="WEB-INF/jspf/header.jspf" %>
         <h1>RAFAEL CAETANO TEIXEIRA</h1>
         <h2>RA: 1290481922039</h2>
-        <h3>Semestre de ingresso na Fatec: 08/2019</h3>
+        <h3>Semestre de ingresso na Fatec: 08/19</h3>
         <a href="https://github.com/RafaelCaetanoTeixeira">Github</a>
         
         <hr/>
